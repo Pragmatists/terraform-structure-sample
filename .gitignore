@@ -1,0 +1,13 @@
+### Intellij ###
+.idea/
+*.iml
+
+### Terraform ###
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+
+### VisualStudioCode ###
+.vscode/
+.history
